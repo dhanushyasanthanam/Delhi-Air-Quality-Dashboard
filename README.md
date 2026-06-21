@@ -46,7 +46,6 @@ This project presents an interactive dashboard for analyzing Delhi Air Quality d
 
 - Delhi_Air_Quality_Dashboard.xlsx
 - Delhi_Air_Quality_Data_Story.docx
-- Dashboard Screenshot.png
 
 ## Conclusion
 
